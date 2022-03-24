@@ -1,0 +1,17 @@
+C:\Users\14SZFT\source\repos\Vizsga2\Vizsga2\obj\Debug\netcoreapp3.1\Vizsga2.csproj.AssemblyReference.cache
+C:\Users\14SZFT\source\repos\Vizsga2\Vizsga2\obj\Debug\netcoreapp3.1\Vizsga2.Form1.resources
+C:\Users\14SZFT\source\repos\Vizsga2\Vizsga2\obj\Debug\netcoreapp3.1\Vizsga2.csproj.GenerateResource.cache
+C:\Users\14SZFT\source\repos\Vizsga2\Vizsga2\obj\Debug\netcoreapp3.1\Vizsga2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14SZFT\source\repos\Vizsga2\Vizsga2\obj\Debug\netcoreapp3.1\Vizsga2.AssemblyInfoInputs.cache
+C:\Users\14SZFT\source\repos\Vizsga2\Vizsga2\obj\Debug\netcoreapp3.1\Vizsga2.AssemblyInfo.cs
+C:\Users\14SZFT\source\repos\Vizsga2\Vizsga2\obj\Debug\netcoreapp3.1\Vizsga2.csproj.CoreCompileInputs.cache
+C:\Users\14SZFT\source\repos\Vizsga2\Vizsga2\bin\Debug\netcoreapp3.1\Vizsga2.exe
+C:\Users\14SZFT\source\repos\Vizsga2\Vizsga2\bin\Debug\netcoreapp3.1\Vizsga2.deps.json
+C:\Users\14SZFT\source\repos\Vizsga2\Vizsga2\bin\Debug\netcoreapp3.1\Vizsga2.runtimeconfig.json
+C:\Users\14SZFT\source\repos\Vizsga2\Vizsga2\bin\Debug\netcoreapp3.1\Vizsga2.runtimeconfig.dev.json
+C:\Users\14SZFT\source\repos\Vizsga2\Vizsga2\bin\Debug\netcoreapp3.1\Vizsga2.dll
+C:\Users\14SZFT\source\repos\Vizsga2\Vizsga2\bin\Debug\netcoreapp3.1\Vizsga2.pdb
+C:\Users\14SZFT\source\repos\Vizsga2\Vizsga2\obj\Debug\netcoreapp3.1\Vizsga2.dll
+C:\Users\14SZFT\source\repos\Vizsga2\Vizsga2\obj\Debug\netcoreapp3.1\Vizsga2.pdb
+C:\Users\14SZFT\source\repos\Vizsga2\Vizsga2\obj\Debug\netcoreapp3.1\Vizsga2.genruntimeconfig.cache
+C:\Users\14SZFT\source\repos\Vizsga2\Vizsga2\obj\Debug\netcoreapp3.1\Vizsga2.Properties.Resources.resources
